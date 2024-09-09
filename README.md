@@ -12,7 +12,7 @@ Currently, I am continuing to develop my expertise in Solidity and I’ve recent
 
 - **Blockchain & Cryptocurrencies**: Expertise in Solidity, smart contract development, dApp creation.
 - **Training & Education**: Creating educational content, coaching, and training blockchain developers.
-- **Technical Writing**: Publishing articles on Substack and managing a Telegram channel for Web3 analysis.
+- **Technical Writing**: Publishing articles on [Substack](https://lorcannrauzduel.substack.com) and managing a [Telegram channel](https://t.me/lorcannrauzduel) for Web3 analysis.
 - **Web3 Engagement**: Engaging with the community through various platforms to share knowledge and insights.
 
 ## Collaboration
@@ -22,8 +22,7 @@ I’m always open to collaborating on exciting projects! Whether you’re a star
 ## How to reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lorcannrauzduel/)
-- 📝 [Substack](https://lorcannrauzduel.substack.com/)
-- 📱 [Telegram Channel](https://t.me/lorcannrauzduel)
+- 📅 [Book a Meeting](https://zcal.co/lorcannrauzduel)
 
 ## Fun Fact
 
