@@ -1,4 +1,4 @@
-# 💡 Blockchain Specialist | Educator 
+# 👋 Hi, I’m Lorcann
 
 I am a software engineer and blockchain trainer passionate about technology since my teenage years. 
 
@@ -19,7 +19,7 @@ Currently, I am continuing to develop my expertise in Solidity and I’ve recent
 
 I’m always open to collaborating on exciting projects! Whether you’re a startup, a company, or another developer passionate about blockchain, feel free to reach out to discuss potential collaborations.
 
-## How to reach Me
+## How to reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lorcannrauzduel/)
 - 📝 [Substack](https://lorcannrauzduel.substack.com/)
