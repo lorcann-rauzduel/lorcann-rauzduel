@@ -13,7 +13,7 @@ Currently, I am continuing to develop my expertise in Solidity and I’ve recent
 - **Blockchain & Cryptocurrencies**: Expertise in Solidity, smart contract development, dApp creation.
 - **Training & Education**: Creating educational content, coaching, and training blockchain developers.
 - **Technical Writing**: Publishing articles on Substack and managing a Telegram channel for Web3 analysis.
-- **Web3 Engagement**: ngaging with the community through various platforms to share knowledge and insights.
+- **Web3 Engagement**: Engaging with the community through various platforms to share knowledge and insights.
 
 ## Collaboration
 
