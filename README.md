@@ -21,8 +21,7 @@ I’m always open to collaborating on exciting projects! Whether you’re a star
 
 ## How to reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lorcannrauzduel/)
-- 📅 [Book a Meeting](https://zcal.co/lorcannrauzduel)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lorcannrauzduel/) or [book a meeting](https://zcal.co/lorcannrauzduel) to discuss ideas or opportunities.
 
 ## Fun Fact
 
