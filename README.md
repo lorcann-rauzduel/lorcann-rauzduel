@@ -2,7 +2,7 @@
 
 I am a software engineer and blockchain trainer passionate about technology since my teenage years. 
 
-With over 7 years of experience in the crypto ecosystem and more than 5 years as a freelancer, I’ve had the opportunity to work with prestigious clients such as Docaposte and Aura Blockchain Consortium (LVMH).
+With over 8 years of experience in the crypto ecosystem and more than 7 years as a freelancer, I’ve had the opportunity to work with prestigious clients such as Docaposte and Aura Blockchain Consortium (LVMH).
 
 As a trainer, I’ve been collaborating with Acadee for 2 years, where I coach and train blockchain developers while producing educational content. I’ve also had the chance to speak at schools such as Epita and Epitech, among others. I also write articles on Substack to share my knowledge and thoughts on blockchain and development.
 
