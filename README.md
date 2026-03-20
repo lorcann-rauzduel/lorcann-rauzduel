@@ -22,7 +22,3 @@ I’m always open to collaborating on exciting projects! Whether you’re a star
 ## How to reach me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lorcannrauzduel/) or [book a meeting](https://zcal.co/lorcannrauzduel) to discuss ideas or opportunities.
-
-## Fun Fact
-
-I’m also a big fan of video games and love exploring the latest tech innovations!
