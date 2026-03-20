@@ -1,18 +1,24 @@
-# 👋 Hi, I’m Lorcann
+# 👋 Hi, I'm Lorcann
 
-I am a software engineer and blockchain trainer passionate about technology since my teenage years. 
+I'm a software engineer and trainer passionate about technology since my teenage years.
 
-With over 8 years of experience in the crypto ecosystem and more than 7 years as a freelancer, I’ve had the opportunity to work with prestigious clients such as Docaposte and Aura Blockchain Consortium (LVMH).
+With over 8 years of experience in the crypto ecosystem and more than 7 years as a freelancer, I've had the opportunity to work with prestigious clients such as Docaposte and Aura Blockchain Consortium (LVMH).
 
-As a trainer, I’ve been collaborating with Acadee for 2 years, where I coach and train blockchain developers while producing educational content. I’ve also had the chance to speak at schools such as Epita and Epitech, among others. I also write articles on Substack to share my knowledge and thoughts on blockchain and development.
+As a trainer, I create and deliver technical courses on blockchain, LLMs, and AI development. I've also spoken at schools such as Epita and Epitech, among others. I write regularly on [Substack](https://lorcannrauzduel.substack.com) about software development, technology, and whatever I find worth thinking about.
 
-Currently, I am continuing to develop my expertise in Solidity and I’ve recently started learning Rust.
+## What I'm Working On
 
-## Passion & Skills
+- Building practical courses on LLMs and AI development
+- Exploring game modding — currently developing GTA V mods in C# (SHVDN), working with patterns like FSMs and event-driven architectures
+- Deepening my expertise in TypeScript, AI agents, and RAG pipelines
 
-- **Blockchain & Cryptocurrencies**: Expertise in Solidity, smart contract development, dApp creation.
-- **Full Stack Web Development**: Extensive experience with a strong preference for back-end development.
-- **Training & Education**: Creating educational content, coaching, and training blockchain developers.
+## Skills & Interests
+
+- **AI & LLMs**: Prompt engineering, agent architectures, RAG, practical AI development
+- **Blockchain**: Solidity, smart contracts, dApp development
+- **Full Stack Development**: Strong preference for back-end, 7+ years freelance experience
+- **Game Modding**: C#, SHVDN, finite state machines, gameplay systems design
+- **Training & Education**: Course creation, technical coaching, educational content production
 - **Technical Writing**: Publishing articles on [Substack](https://lorcannrauzduel.substack.com) and managing a [Telegram channel](https://t.me/lorcannrauzduel) for Web3 analysis.
 - **Web3 Engagement**: Engaging with the community through various platforms to share knowledge and insights.
 
