@@ -17,7 +17,7 @@ As a trainer, I create and deliver technical courses on blockchain, LLMs, and AI
 
 ## Collaboration
 
-I’m always open to collaborating on exciting projects! Whether you’re a startup, a company, or another developer passionate about blockchain, feel free to reach out to discuss potential collaborations.
+I’m always open to collaborating on exciting projects! Whether you’re a startup, a company, or another developer, feel free to reach out to discuss potential collaborations.
 
 ## How to reach me
 
