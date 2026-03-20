@@ -13,7 +13,7 @@ As a trainer, I create and deliver technical courses on blockchain, LLMs, and AI
 - **Full Stack Development**: Strong preference for back-end, 7+ years freelance experience
 - **Game Modding**: C#, SHVDN, finite state machines, gameplay systems design
 - **Training & Education**: Course creation, technical coaching, educational content production
-- **Technical Writing**: Publishing articles on [Substack](https://lorcannrauzduel.substack.com) and managing a [Telegram channel](https://t.me/lorcannrauzduel) for Web3 analysis.
+- **Technical Writing**: Publishing articles on [Substack](https://lorcannrauzduel.substack.com).
 - **Web3 Engagement**: Engaging with the community through various platforms to share knowledge and insights.
 
 ## Collaboration
