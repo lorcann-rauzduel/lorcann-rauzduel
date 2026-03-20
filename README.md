@@ -6,13 +6,7 @@ With over 8 years of experience in the crypto ecosystem and more than 7 years as
 
 As a trainer, I create and deliver technical courses on blockchain, LLMs, and AI development. I've also spoken at schools such as Epita and Epitech, among others. I write regularly on [Substack](https://lorcannrauzduel.substack.com) about software development, technology, and whatever I find worth thinking about.
 
-## What I'm Working On
-
-- Building practical courses on LLMs and AI development
-- Exploring game modding — currently developing GTA V mods in C# (SHVDN), working with patterns like FSMs and event-driven architectures
-- Deepening my expertise in TypeScript, AI agents, and RAG pipelines
-
-## Skills & Interests
+## Skills
 
 - **AI & LLMs**: Prompt engineering, agent architectures, RAG, practical AI development
 - **Blockchain**: Solidity, smart contracts, dApp development
