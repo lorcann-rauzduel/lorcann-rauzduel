@@ -11,7 +11,7 @@ As a trainer, I create and deliver technical courses on blockchain, LLMs, and AI
 - **AI & LLMs**: Prompt engineering, agent architectures, RAG, practical AI development
 - **Blockchain**: Solidity, smart contracts, dApp development
 - **Full Stack Development**: Strong preference for back-end, 7+ years freelance experience
-- **Game Modding**: C#, finite state machines, gameplay systems design
+- **Game Modding**: C#, finite state machines, and gameplay systems design — [12K+ followers on TikTok](https://www.tiktok.com/@lorcannmodding2) and creator on [GTA5-Mods.com](https://www.gta5-mods.com/users/Lorcann)
 - **Training & Education**: Course creation, technical coaching, educational content production
 - **Technical Writing**: Publishing articles on [Substack](https://lorcannrauzduel.substack.com).
 
